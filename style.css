@@ -1,0 +1,8 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+.button-container {
+    display: flex;
+    justify-content: space-between;
+}
